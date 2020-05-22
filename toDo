@@ -1,3 +1,4 @@
 - logging
 - tests 
 - outsource properties (i.e. directoryPath)
+- customize http-messages
