@@ -1,0 +1,3 @@
+- logging
+- tests 
+- outsource properties (i.e. directoryPath)
