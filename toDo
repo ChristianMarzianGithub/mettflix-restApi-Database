@@ -2,3 +2,4 @@
 - tests 
 - outsource properties (i.e. directoryPath)
 - customize http-messages
+- customize console-messages
