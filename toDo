@@ -3,3 +3,10 @@
 - outsource properties (i.e. directoryPath)
 - customize http-messages
 - customize console-messages
+- restricticng access/ customize Security to the mettflix-api
+- support different Datasources (i.e. different databases, files)
+- creating a api-user-reference
+- integrate other apis like rating-sites(imdb/rotten tomatoes) or streaming/buying sites (amazon/itunes/netflix)
+- user-account-management => creating the option to have user-accounts
+- create Jenkins-build-server
+- deploy to seperate raspberryPi
